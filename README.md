@@ -2,7 +2,6 @@
 
 **Classification:** Supply-chain phishing → backdoor + RCE  
 **Confidence:** CONFIRMED  
-**Victim:** MegaHertz (Auroracoin)  
 **Date:** 2026-07-09 through 2026-07-13  
 
 ---
